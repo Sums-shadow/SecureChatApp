@@ -11,10 +11,10 @@
 - Users see messages instantly as they are sent.
 
 ## User Authentication
-- Secure user registration and login (e.g., using OAuth, JWT, or Firebase Authentication).
+- Secure user registration and login with JWT.
 
 ## Message Storage
-- Encrypted messages are stored temporarily or permanently (depending on the app's design).
+- Encrypted messages are stored temporarily.
 
 ## Key Management
 - Secure generation, exchange, and storage of encryption keys.
